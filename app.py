@@ -46,7 +46,7 @@ def optimize_schedule(project_description):
 st.set_page_config(page_title="Project Planning & Assessment Tool", layout="wide")
 
 # Title with color and emojis
-st.markdown("<h1 style='text-align: center; color: #ff6347;'>Project Planning & Assessment Tool 🎨</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #ff6347;'>PlanMaster AI 🎨</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: #4682b4;'>by Ginikanwa Nnenna</h3>", unsafe_allow_html=True)
 st.write("---")
 
