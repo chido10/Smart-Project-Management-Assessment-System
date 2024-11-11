@@ -43,7 +43,7 @@ def optimize_schedule(project_description):
     return get_gemini_response(prompt)
 
 # Streamlit App Layout
-st.set_page_config(page_title="Project Planning & Assessment Tool", layout="wide")
+st.set_page_config(page_title="PlanMaster AI", layout="wide")
 
 # Title with color and emojis
 st.markdown("<h1 style='text-align: center; color: #ff6347;'>PlanMaster AI 🎨</h1>", unsafe_allow_html=True)
